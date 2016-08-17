@@ -1,0 +1,15 @@
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Model\bin\Debug\ProdigiousTest.Model.dll
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Model\bin\Debug\ProdigiousTest.Model.pdb
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Model\bin\Debug\AutoMapper.dll
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Model\bin\Debug\ProdigiousTest.DataAcess.dll
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Model\bin\Debug\ProdigiousTest.DataBase.dll
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Model\bin\Debug\EntityFramework.dll
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Model\bin\Debug\ProdigiousTest.DataAcess.pdb
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Model\bin\Debug\AutoMapper.xml
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Model\bin\Debug\ProdigiousTest.DataBase.pdb
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Model\bin\Debug\EntityFramework.xml
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Model\obj\Debug\ProdigiousTest.Model.csprojResolveAssemblyReference.cache
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Model\obj\Debug\ProdigiousTest.Model.dll
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Model\obj\Debug\ProdigiousTest.Model.pdb
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Model\bin\Debug\ProdigiousTest.Security.dll
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Model\bin\Debug\ProdigiousTest.Security.pdb

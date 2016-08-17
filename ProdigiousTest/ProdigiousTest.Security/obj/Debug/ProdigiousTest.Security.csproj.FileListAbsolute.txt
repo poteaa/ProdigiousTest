@@ -1,0 +1,5 @@
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Security\bin\Debug\ProdigiousTest.Security.dll
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Security\bin\Debug\ProdigiousTest.Security.pdb
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Security\obj\Debug\ProdigiousTest.Security.csprojResolveAssemblyReference.cache
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Security\obj\Debug\ProdigiousTest.Security.dll
+E:\Tests\Prodigious\ProdigiousTest\ProdigiousTest.Security\obj\Debug\ProdigiousTest.Security.pdb
